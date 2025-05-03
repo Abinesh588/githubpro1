@@ -1,1 +1,1 @@
- Routes are rendered dynamically using component state.
+React Router is a standard library used to handle routing in React applications. It allows navigation between different components, changing the URL, and keeping the UI in sync with the URL.
